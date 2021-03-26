@@ -1,0 +1,2 @@
+# SimpleTipCalculator
+Name checks out.
